@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFxQXfoRUY/MagrWuyayAnxds68dMgRvQ/edit?utm_content=DAFxQXfoRUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%">
+<img src="https://github.com/Nimra-Mughal/Nimra-Mughal/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Nimra Mughal</h1>
