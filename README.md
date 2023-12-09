@@ -3,7 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Nimra Mughal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+[[<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+](url)]
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-mughal" /> </p>
 
